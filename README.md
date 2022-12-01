@@ -11,5 +11,14 @@
 
 ## Tecnologias utilizadas
 
-* Site totalmente gerado utilizando *React.Js*
+* Projeto totalmente gerado utilizando *React.Js*
+* Este projeto consome uma API
 * O site foi construindo utilizando componentes de classes
+
+## Api consumida
+* JsonPlaceholder
+[site da API](https://jsonplaceholder.typicode.com/)
+
+*2 APIs são consumidas ao mesmo tempo, uma de imagens e uma de posts*
+
+## Obrigado por ter lido!
